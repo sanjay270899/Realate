@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Realate/static/css/main.2903e564.chunk.css",
+    "main.js": "/Realate/static/js/main.1f0a2781.chunk.js",
+    "main.js.map": "/Realate/static/js/main.1f0a2781.chunk.js.map",
+    "runtime-main.js": "/Realate/static/js/runtime-main.9a6e7833.js",
+    "runtime-main.js.map": "/Realate/static/js/runtime-main.9a6e7833.js.map",
+    "static/css/2.ccc6f86f.chunk.css": "/Realate/static/css/2.ccc6f86f.chunk.css",
+    "static/js/2.d3835fa2.chunk.js": "/Realate/static/js/2.d3835fa2.chunk.js",
+    "static/js/2.d3835fa2.chunk.js.map": "/Realate/static/js/2.d3835fa2.chunk.js.map",
+    "static/js/3.b923e162.chunk.js": "/Realate/static/js/3.b923e162.chunk.js",
+    "static/js/3.b923e162.chunk.js.map": "/Realate/static/js/3.b923e162.chunk.js.map",
+    "index.html": "/Realate/index.html",
+    "static/css/2.ccc6f86f.chunk.css.map": "/Realate/static/css/2.ccc6f86f.chunk.css.map",
+    "static/css/main.2903e564.chunk.css.map": "/Realate/static/css/main.2903e564.chunk.css.map",
+    "static/js/2.d3835fa2.chunk.js.LICENSE.txt": "/Realate/static/js/2.d3835fa2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6e7833.js",
+    "static/css/2.ccc6f86f.chunk.css",
+    "static/js/2.d3835fa2.chunk.js",
+    "static/css/main.2903e564.chunk.css",
+    "static/js/main.1f0a2781.chunk.js"
+  ]
+}
